@@ -1,1 +1,4 @@
 /target
+*.iml
+*.jar
+/src/main/webapp/classes
